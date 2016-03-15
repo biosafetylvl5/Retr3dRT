@@ -243,7 +243,7 @@
 <text x="-19.304" y="-1.016" size="3.81" layer="29" font="vector" distance="100">RETR3D</text>
 <text x="20.32" y="34.925" size="1.27" layer="16" font="vector" ratio="12" rot="MR0">https://github.com/masterperson40/Retr3dRT</text>
 <text x="20.32" y="34.925" size="1.27" layer="29" font="vector" ratio="12" rot="MR0">https://github.com/masterperson40/Retr3dRT</text>
-<text x="-25.527" y="-18.669" size="1.27" layer="22" font="vector" ratio="12" rot="R90">https://github.com/masterperson40/Retr3dRT</text>
+<text x="-25.527" y="-18.669" size="1.27" layer="21" font="vector" ratio="12" rot="R90">https://github.com/masterperson40/Retr3dRT</text>
 </plain>
 <libraries>
 <library name="RAMPS_Shield">
