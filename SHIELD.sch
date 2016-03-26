@@ -8497,7 +8497,7 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <attribute name="NAME" x="-10.16" y="35.7886" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-10.16" y="38.608" size="1.778" layer="96"/>
 </instance>
-<instance part="LOGO2" gate="G$1" x="-104.14" y="20.32"/>
+<instance part="LOGO2" gate="G$1" x="81.28" y="-55.88"/>
 </instances>
 <busses>
 </busses>
