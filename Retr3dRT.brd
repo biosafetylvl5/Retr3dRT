@@ -264,9 +264,9 @@
 <text x="19.939" y="34.925" size="1.27" layer="16" font="vector" rot="MR0">https://github.com/biosafetylvl5/Retr3dRT</text>
 <text x="19.939" y="34.925" size="1.27" layer="30" font="vector" rot="MR0">https://github.com/biosafetylvl5/Retr3dRT</text>
 <text x="-25.4" y="-18.288" size="1.27" layer="21" font="vector" rot="R90">https://github.com/biosafetylvl5/Retr3dRT</text>
-<text x="15.494" y="21.844" size="1.4224" layer="27">5k</text>
-<text x="15.494" y="19.177" size="1.4224" layer="27">5k</text>
-<text x="14.41213125" y="15.177696875" size="1.4224" layer="27">330</text>
+<text x="15.494" y="21.844" size="1.4224" layer="25">5k</text>
+<text x="15.494" y="19.177" size="1.4224" layer="25">5k</text>
+<text x="14.41213125" y="15.177696875" size="1.4224" layer="25">330</text>
 </plain>
 <libraries>
 <library name="RAMPS_Shield">
