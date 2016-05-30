@@ -2,12 +2,12 @@
 RAMPS 1.4 self-test board designed for used in conjunction with Retr3d.
 
 ## Images
-<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/brd.png" style="width:48%" />
-<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/sch.png" style="width:48%" />
+<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/brd.png" style="width:40%" />
+<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/sch.png" style="width:40%" />
 
 #### OSHPark Renderings
-<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/osh-top.png" style="width:48%" />
-<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/osh-bottom.png" style="width:48%" />
+<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/osh-top.png" style="width:40%" />
+<img src="https://raw.githubusercontent.com/masterperson40/Retr3dRT/master/images/osh-bottom.png" style="width:40%" />
 # Make Retr3dRT
 
 ## Parts
