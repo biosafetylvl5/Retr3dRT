@@ -44,6 +44,17 @@ To keep in touch to watch for updates and improvements you have a few options:
 - Follow the [#Retr3dRT hashtag](https://twitter.com/hashtag/Retr3dRT?f=tweets&src=hash) on twitter to know the moment things happen
 - Check out [techfortrade](techfortrade.org) to see what else we're doing
 
+## PCB Fabrication
+We're lucky enough to live in the era of cheap and abundant PCB fabrication options. However, this abundance of choices does make choosing a formidable task. However, too make the choosing easier for you, we've narrowed down
+the choices to two for you. You're free to choose any fabrication vendor, but we will only be offering (unless asked for others) gerber files (PCB blueprints) for SeeedStudio and OSHPark.
+
+### OSHPark
+OSHPark is fantastic. Their boards look great and arrive quickly. However, at 5$ per square inch for three boards, they can be costly for larger runs. Other than that, they have produced good results. This is probably the choice for you if you need
+three boards or less.
+
+### SeeedStudio
+While SeeedStudio is the budget choice, this isn't a statement about their quality. They feature vanilla PCBs that are very functional, but aren't the most aesthetically pleasing. They deliver quickly, but slower than OSHPark (in the USA) given that they're based in china. This is probably the choice for you if you need more than three boards.
+
 ### Final Notes
 
 This board assumes that PCB traces are not faulty. Although this is a possibility, the board was not designed explicitly to test poor traces, it is highly probable that the results from tests meant to test intra-board connections will also flag trace problems.
